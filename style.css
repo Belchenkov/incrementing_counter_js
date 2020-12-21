@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Ultra', serif;
-  background-color: #3293a0;
+  background: url("./img/bg.png") repeat;
   color: #fff;
   display: flex;
   align-items: center;
